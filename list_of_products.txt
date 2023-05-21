@@ -1,0 +1,24 @@
+*Motoryzacja
+Odświeżacz powietrza
+sztuki
+Płyn do spryskiwaczy
+litry
+*Chemia
+Mydło
+sztuki
+Płyn do mycia naczyń
+litry
+*Zabawa
+Piłka
+sztuki
+Kostka rubika
+sztuki
+*Spożywcze
+Chleb
+kilogramy
+Masło
+kilogramy
+Mleko
+litry
+Żółty ser
+kilogramy
